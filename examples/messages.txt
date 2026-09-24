@@ -1,0 +1,3 @@
+Hello from QR Toolkit
+مرحبا من QR Toolkit
+https://example.com
